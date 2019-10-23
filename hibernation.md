@@ -6,6 +6,8 @@ https://askubuntu.com/a/1056364/831088
 
 https://askubuntu.com/questions/1053134/hibernation-in-18-04
 
+Use this to find which is swap partition and its UUID
+
 ```
 cat /etc/fstab
 ```
